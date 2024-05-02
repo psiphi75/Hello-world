@@ -8,5 +8,8 @@ h1 {
 h3 {
           text-align: center;
 }
-          
+
+body{
+    background: linear-gradient(to bottom, #33ccff 0%, #000066 100%);
+}     
       
