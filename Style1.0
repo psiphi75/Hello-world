@@ -1,0 +1,7 @@
+    <style>
+      H1 {text-align: center}
+      H3 {text-align: center}
+      <H1 style="background-color:Blue;color:navy;font-family:Garamond"> </H1>
+      
+      
+    </style> 
