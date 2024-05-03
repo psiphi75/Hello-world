@@ -12,9 +12,6 @@ body{
     background: linear-gradient(to bottom, #33ccff 0%, #000066 100%);
 }     
 
-span.sqsrte-scaled-text span {
-   	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+.gradient-text {
+    background-image: horizontal-gradient(45deg, #f3ec78, #af4261);
 }
-      
